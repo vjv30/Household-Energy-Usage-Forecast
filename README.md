@@ -1,4 +1,4 @@
-# Energy Consumption Prediction
+# Household Energy Usage Forecast
 
 ## Problem Statement
 
